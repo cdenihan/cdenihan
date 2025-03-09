@@ -18,6 +18,11 @@
 
 ---
 --->
+### Cybersecurity
+<img src="https://tryhackme-badges.s3.amazonaws.com/cdenihan.png" alt="Your Image Badge" />
+
+---
+
 ### Languages and Tools
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -63,10 +68,6 @@
 
 ---
 
-### Cybersecurity
-<img src="https://tryhackme-badges.s3.amazonaws.com/cdenihan.png" alt="Your Image Badge" />
-
----
 
 ### GitHub Stats
 
