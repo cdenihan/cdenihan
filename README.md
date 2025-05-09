@@ -18,24 +18,17 @@
 
 ---
 --->
-
-<!-- ### Cybersecurity -->
-<!--
+### Cybersecurity
 <a href="https://tryhackme.com/p/cdenihan">
   <img src="https://tryhackme-badges.s3.amazonaws.com/cdenihan.png" alt="Your Image Badge" />
 </a>
--->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4337308" style='border:none;'></iframe>
 
 ---
 
-<!-- ### GitHub Stats -->
+### GitHub Stats
 
-<!-- ![Metrics](./github-metrics.svg) -->
-<div class="metrics-container">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%">
-</div>
 
+![Metrics](./github-metrics.svg)
 
 <!--
 ## Hi there 👋
