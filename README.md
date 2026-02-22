@@ -30,5 +30,60 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40" /> </a></p>
+
+#### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+
+#### Web Development
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+
+#### Tools and Platforms
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+
+#### Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=debian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+#### IDEs and Editors
+[![My Skills](https://skillicons.dev/icons?i=clion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=webstorm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
+
+#### Databases
+[![My Skills](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+#### Hardware and Embedded Systems
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ros)](https://skillicons.dev)
+
+#### Other
+[![My Skills](https://skillicons.dev/icons?i=bun)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cdenihan&" alt="cdenihan" /></p>
