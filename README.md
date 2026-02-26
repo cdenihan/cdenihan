@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **[MAVInsight](https://GitHub.com/UMD-UROC/MAVInsight)**
 
-- 🌱 I'm currently learning **[TanStack](https://tanstack.com)**
+- 🌱 I'm currently learning **[TanStack](https://tanstack.com)** & **[Zig](https://ziglang.org)**
 <!--
 - 👯 I'm looking to collaborate on **example**
 
