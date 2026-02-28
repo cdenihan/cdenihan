@@ -32,11 +32,11 @@
 <h3 align="left">Languages and Tools:</h3>
 
 #### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
