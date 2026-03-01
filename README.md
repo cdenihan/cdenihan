@@ -37,6 +37,7 @@
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
 
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
@@ -44,7 +45,6 @@
 [![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
 
 #### Tools and Platforms
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
