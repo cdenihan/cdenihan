@@ -1,6 +1,6 @@
 # Hi 👋, I'm Connor Denihan
 
-### A passionate C++ developer
+### A passionate student developer
 
 - 🔭 I'm currently working on **[MAVInsight](https://GitHub.com/UMD-UROC/MAVInsight)**
 
@@ -39,7 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nix)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=zig)](https://skillicons.dev)
+<!--- [![My Skills](https://skillicons.dev/icons?i=zig)](https://skillicons.dev) -->
 
 #### Web Development
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
