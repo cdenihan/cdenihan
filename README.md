@@ -2,9 +2,9 @@
 
 ### A passionate student developer
 
-- 🔭 I'm currently working on **[MAVInsight](https://GitHub.com/UMD-UROC/MAVInsight)**
+- 🔭 I'm currently working on **[Jacob Ladder](https://github.com/CursedRock17/Jacob_Ladder)**
 
-- 🌱 I'm currently learning **Web Technologies** & **[Zig](https://ziglang.org)**
+- 🌱 I'm currently learning **How to effectivley use AI in software development**
 <!--
 - 👯 I'm looking to collaborate on **example**
 
